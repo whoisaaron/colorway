@@ -1,2 +1,1 @@
-# colorway anything
-#The colorway project 
+# colorway
